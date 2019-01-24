@@ -1,0 +1,4 @@
+ra.c: In function ‘main’:
+ra.c:104:7: warning: implicit declaration of function ‘sleep’ [-Wimplicit-function-declaration]
+       sleep(1);
+       ^

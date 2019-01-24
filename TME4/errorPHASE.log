@@ -1,0 +1,4 @@
+phase.c: In function ‘calcul_min’:
+phase.c:42:6: warning: type of ‘rang’ defaults to ‘int’ [-Wimplicit-int]
+ void calcul_min(rang)
+      ^
